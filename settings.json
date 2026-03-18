@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Afk Bot",
+    "username": "AFK BOT",
     "password": "",
     "type": "offline"
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Sub to EchoFlop",
+        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
