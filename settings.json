@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFK BOT",
+    "username": "imgonnacream",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Cloud_Nine.aternos.me",
