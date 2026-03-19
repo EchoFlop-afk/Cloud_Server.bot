@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LogicGate_SMP.aternos.me",
+    "ip": "LogicGate_SMP.aternos.me:27275",
     "port": 27275,
     "version": "",
     "try-creative": false
