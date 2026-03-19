@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "Cloud_Nine.aternos.me",
-    "port": 58955,
+    "ip": "LogicGate_SMP.aternos.me",
+    "port": 27275,
     "version": "",
     "try-creative": false
   },
